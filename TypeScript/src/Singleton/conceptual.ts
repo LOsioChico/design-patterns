@@ -1,3 +1,14 @@
+/**
+ * Singleton Design Pattern
+ *
+ * Intent: Lets you ensure that a class has only one instance, while providing a
+ * global access point to this instance.
+ */
+
+/**
+ * The Singleton class defines an `instance` getter, that lets clients access
+ * the unique singleton instance.
+ */
 class Singleton {
   private static instance: Singleton;
 

@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "4.19.1",
+    "typescript": "5.6.3"
+  }
+}

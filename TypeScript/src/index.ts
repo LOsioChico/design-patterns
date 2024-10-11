@@ -5,7 +5,7 @@ const main = () => {
 
   if (args.length < 2) {
     console.error(
-      "No correct arguments provided, please provide a pattern name and type.",
+      "No correct arguments provided, please provide a pattern name and type."
     );
     process.exit(1);
   }
